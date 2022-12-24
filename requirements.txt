@@ -90,3 +90,4 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 yfinance==0.1.87
 zipp==3.11.0
+textblob==0.17.1
